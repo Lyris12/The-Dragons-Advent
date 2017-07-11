@@ -3,7 +3,6 @@ lua52.dll
 new *
 set
 list.lua
-/README.md
 set.stub
 card_list.txt
 *.bat

@@ -1,0 +1,49 @@
+Aspect Dragons are sorted by date named, and some use their Japanese translated names if they're not the same as their English names.
+
+- [ ] `0`: Nel'zios of the Yume Clan
+- [ ] `1`: Odd-Eyes Pendulum Dragon
+- [ ] `2`: Dark Rebellion Xyz Dragon
+- [ ] `3`: Clear Wing Synchro Dragon
+- [ ] `4`: Gloom Haze Dark Synchro Dragon
+- [ ] `5`: Golden Armor Enhance Dragon
+- [ ] `6`: Stealth Scales Bloom Dragon
+- [ ] `7`: Chaos Tail Duality Dragon
+- [ ] `8`: Night Glow Ritual Dragon
+- [ ] `9`: Blood Protector Composition Dragon
+- [ ] `10`: Hot Speed Heaven Dragon
+- [ ] `11`: Starry-Eyes Spatial Dragon
+- [ ] `12`: Armed Crystal Battle Gem Dragon
+- [ ] `13`: Blaze Tail Overlimit Dragon
+- [ ] `14`: Cracked Skull Fracture Dragon
+- [ ] `15`: Full-Stealth Armor Dragon
+- [ ] `16`: Border Limit Bound Dragon
+- [ ] `17`: Starve Venom Fusion Dragon (Starving Venom Fusion Dragon)
+- [ ] `18`: Speed Stripe Relay Dragon
+- [ ] `19`: Giant Mirror Reflect Dragon
+- [ ] `20`: Ditto-Face Gemini Dragon
+- [ ] `21`: Cheerful Song Toon Dragon
+- [ ] `22`: Unbreakable Layer Breakdown Dragon
+- [ ] `23`: Gambling Talon Currency Dragon
+- [ ] `24`: Foil Shell Spectrum Dragon
+- [ ] `25`: Power Split Bending Dragon
+- [ ] `26`: Passionate Virtue Evolute Dragon
+- [ ] `27`: Ocean Surge Spirit Dragon
+- [ ] `28`: Spring Breeze Harmony Dragon
+- [ ] `29`: Lost Memoirs Recall Dragon
+- [ ] `30`: Rushing Buster Impact Dragon
+- [ ] `31`: Courageous Arsenal Union Dragon (Courage Arsenal Union Dragon)
+- [ ] `32`: Anomaly Tornado Paradox Dragon
+- [ ] `33`: Exalted Drive Genesis Dragon
+- [ ] `34`: Alkahest Heart Chrysopoeia Dragon
+- [ ] `35`: Blinding Surprise Ambush Dragon
+- [ ] `36`: Seismic Rift Terrain Dragon
+- [ ] `37`: European Voice Accent Dragon (Europe Voice Accent Dragon)
+- [ ] `38`: Wild Wind Syphon Dragon
+- [ ] `39`: Jade Crest Hybrid Dragon
+- [ ] `40`: Morning Veil Timewarp Dragon
+- [ ] `41`: Plague Torrent Tactic Dragon
+- [ ] `42`: Dynamic Pressure Gravity Dragon
+- [ ] `43`: Annihilation Claw Order Dragon
+- [ ] `44`: Boiling Deluge Epoch Dragon
+- [ ] `45`: Velocitic Parasite United Dragon
+- [ ] `46`: Dubious Crisis Bypath Dragon
