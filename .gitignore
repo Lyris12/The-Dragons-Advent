@@ -1,0 +1,14 @@
+sqlite3.exe
+wlua.exe
+lua52.dll
+new 1
+new 2
+new 6
+set
+list.lua
+README.md
+set.stub
+card_list.txt
+ot_changer.bat
+lua.exe
+luac.exe
