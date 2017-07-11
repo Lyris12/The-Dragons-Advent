@@ -1,0 +1,1 @@
+European Voice Accent Dragon (ヨーロッパ・ボイス・アクセント・ドラゴン; Europe Voice Accent Dragon)
