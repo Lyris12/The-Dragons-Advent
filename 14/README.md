@@ -1,1 +1,1 @@
-Cracked Skull Fracture Dragon
+Full-Stealth Armor Dragon

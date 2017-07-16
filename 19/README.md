@@ -1,1 +1,1 @@
-Giant Mirror Reflect Dragon
+Ditto-Face Gemini Dragon

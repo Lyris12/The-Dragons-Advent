@@ -1,1 +1,1 @@
-Plague Torrent Tactic Dragon
+Dynamic Pressure Gravity Dragon
