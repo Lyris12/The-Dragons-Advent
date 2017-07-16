@@ -1,1 +1,1 @@
-Speed Stripe Relay Dragon
+Giant Mirror Reflect Dragon

@@ -1,1 +1,1 @@
-Gambling Talon Currency Dragon
+Foil Shell Spectrum Dragon

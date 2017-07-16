@@ -7,4 +7,11 @@ set.stub
 card_list.txt
 *.bat
 *.png
-/Universal/YGOPRO.cdb
+Universal/YGOPRO.cdb
+types
+sample.mse-set
+0/card-list.txt
+*.cs
+*.md5
+entry.lua
+MSE
