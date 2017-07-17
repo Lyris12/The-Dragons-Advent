@@ -9,7 +9,7 @@ card_list.txt
 *.png
 Universal/YGOPRO.cdb
 types
-sample.mse-set
+*.mse-set
 0/card-list.txt
 *.cs
 *.md5
