@@ -2,7 +2,6 @@
 lua52.dll
 new *
 set
-list.lua
 set.stub
 card_list.txt
 *.bat
@@ -13,5 +12,4 @@ types
 0/card-list.txt
 *.cs
 *.md5
-entry.lua
-MSE
+*.lua
