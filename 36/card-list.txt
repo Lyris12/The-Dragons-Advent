@@ -3,7 +3,7 @@ Hispanian Archipelago
 Hispanian Coral Brain
 Hispanian Dolphin Nose Bottle
 Hispanian Shark
-Hispanian Soldragon
+Hispanian Sundragon
 Hispanian Tree Forest Tropical
 Hispanian Tree Palm
 Hispanian Whale Humpback
@@ -13,7 +13,7 @@ Spanian Crocodile
 Spanian Fish Cardinal
 Spanian Fish Clown
 Spanian Fish Surgeon
-Spanian Isladragon
+Spanian Islandragon
 Spanian Jellyfish
 Spanian Kuriboht
 Spanian Lizard

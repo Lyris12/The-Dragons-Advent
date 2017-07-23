@@ -9,7 +9,9 @@ card_list.txt
 Universal/YGOPRO.cdb
 types
 *.mse-set
-0/card-list.txt
 *.cs
 *.md5
 *.lua
+card-list *.txt
+desktop.ini
+*.zip
