@@ -3,15 +3,13 @@ lua52.dll
 new *
 set
 set.stub
-card_list.txt
 *.bat
 *.png
-Universal/YGOPRO.cdb
+Universal/*
 types
 *.mse-set
 *.cs
 *.md5
 *.lua
 card-list *.txt
-desktop.ini
 *.zip
