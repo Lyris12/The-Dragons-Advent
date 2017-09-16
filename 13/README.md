@@ -1,1 +1,1 @@
-Blaze Tail Overlimit Dragon
+Full-Stealth Armor Dragon

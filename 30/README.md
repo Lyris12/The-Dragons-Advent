@@ -1,1 +1,1 @@
-Courageous Arsenal Union Dragon (カレッジ・アーセナル・ユニオン・ドラゴン; Courage Arsenal Union Dragon)
+Blinding Surprise Ambush Dragon

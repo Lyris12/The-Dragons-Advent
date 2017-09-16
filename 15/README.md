@@ -1,1 +1,1 @@
-Full-Stealth Armor Dragon
+Starving Venom Fusion Dragon (スターヴ・ヴェノム・フュージョン・ドラゴン; Starve Venom Fusion Dragon)

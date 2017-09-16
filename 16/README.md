@@ -1,1 +1,1 @@
-Starving Venom Fusion Dragon (スターヴ・ヴェノム・フュージョン・ドラゴン; Starve Venom Fusion Dragon)
+Giant Mirror Reflect Dragon

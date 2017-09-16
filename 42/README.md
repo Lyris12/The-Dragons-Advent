@@ -1,1 +1,1 @@
-Annihilation Claw Order Dragon
+Front Line Disciplined Dragon

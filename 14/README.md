@@ -1,1 +1,1 @@
-Full-Stealth Armor Dragon
+Border Limit Bound Dragon

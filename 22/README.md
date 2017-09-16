@@ -1,1 +1,1 @@
-Gambling Talon Currency Dragon
+Power Split Bending Dragon

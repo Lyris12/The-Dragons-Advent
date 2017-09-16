@@ -1,15 +1,1 @@
-Annihilation Claw Order Dragon
-Aviator-45, Battleraven of the Jets
-Battleraven Airstrip
-Battleraven Bomb
-Battleraven Ignition
-Crow Magnum, Battleraven of the Skies
-Grenade Icarus, Battleraven of the Twisters
-Icarus-38, Battleraven of the Typhoons
-Musket Eagle, Battleraven of the Tornadoes
-Pilfer Lanius, Battleraven of the Hurricanes
-Pistol Falcon, Battleraven of the Cyclones
-Revolver Strix, Battleraven of the Stormwinds
-Rifle Dragon, Battleraven of the Gusts
-Shotgun Vulture, Battleraven of the Monsoons
-Sniper Kuriboh, Battleraven of the Gales
+Front Line Disciplined Dragon

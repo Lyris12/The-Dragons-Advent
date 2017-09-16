@@ -1,19 +1,13 @@
-Alkahest Heart Chrysopoeia Dragon
-Surging Spice - Basil
-Surging Spice - Chilli Pepper
-Surging Spice - Cumin
-Surging Spice - Garam Masala
-Surging Spice - Ginger
-Surging Spice - Green Pepper
-Surging Spice - Kuribohnamon
-Surging Spice - Lemon Pepper
-Surging Spice - Mustard
-Surging Spice - Oregano
-Surging Spice - Paprika
-Surging Spice - Red Pepper
-Surging Spice - Turmeric
-Surging Spice - Yellow Pepper
-Surging Spice Drop
-Surging Spice Flavor
-Surging Spice Mixture
-Surging Spicerack
+Jade Crest Hybrid Dragon
+Fossil Fighting Force Ammonite
+Fossil Fighting Force Brachiopod
+Fossil Fighting Force Cambrian Dragon
+Fossil Fighting Force Coral
+Fossil Fighting Force Crinoid
+Fossil Fighting Force Dracotrilobite
+Fossil Fighting Force Echinoid
+Fossil Fighting Force Excavation
+Fossil Fighting Force Gastropod
+Fossil Fighting Force Kuriboh
+Fossil Fighting Force Potential
+Fossil Fighting Force Supremacy

@@ -1,1 +1,1 @@
-Starry-Eyes Spatial Dragon
+Armed Crystal Battle Gem Dragon

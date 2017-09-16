@@ -1,15 +1,27 @@
-Boiling Deluge Epoch Dragon
-Blazefrost Boiling Cherufe
-Blazefrost Boiling Shark
-Blazefrost Boiling Whale
-Blazefrost Boiling Whelp
-Blazefrost Deluge Angler
-Blazefrost Deluge Dolphin
-Blazefrost Deluge Kraken
-Blazefrost Deluge Kuriboh
-Blazefrost Doppelganger
-Blazefrost Double Gardna
-Blazefrost Double Marauder
-Blazefrost Impact
-Blazefrost Lava Sea
-Blazefrost Wave
+Thunder Charge Challenge Dragon
+Siemens Beryx
+Siemens Betta
+Siemens Cache
+Siemens Cancel
+Siemens Cannon
+Siemens Castle
+Siemens Chimera
+Siemens Cobra
+Siemens Cube
+Siemens Dragon
+Siemens Dragonfly
+Siemens Fox
+Siemens Giraffe
+Siemens Hopper
+Siemens Hydra
+Siemens Keeper
+Siemens Key
+Siemens Kiwi
+Siemens Kuriboh
+Siemens Lemur
+Siemens Mole
+Siemens Pheasant
+Siemens Squirrel
+Siemens Tesladragon
+Siemens Vaccine
+Siemens Woodpecker

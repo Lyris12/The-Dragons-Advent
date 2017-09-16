@@ -1,1 +1,1 @@
-Speed Stripe Relay Dragon
+Ditto-Face Gemini Dragon

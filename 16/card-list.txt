@@ -1,20 +1,31 @@
-Nyx-Reptilia Adder
-Nyx-Reptilia Asp
-Nyx-Reptilia Basilisk
-Nyx-Reptilia Boa
-Nyx-Reptilia Cobra
-Nyx-Reptilia Cursed Scales
-Nyx-Reptilia Desert
-Nyx-Reptilia Fusion
-Nyx-Reptilia Hatching
-Nyx-Reptilia Iguana
-Nyx-Reptilia Instinct
-Nyx-Reptilia Krait
-Nyx-Reptilia Mamba
-Nyx-Reptilia Naga
-Nyx-Reptilia Ophiuchus
-Nyx-Reptilia Ouroboros
-Nyx-Reptilia Rattle
-Nyx-Reptilia Serpent
-Nyx-Reptilia Snakuriboh
-Nyx-Reptilia Tegu
+Giant Mirror Reflect Dragon
+Fragmented Mirrorbeast Colossus
+Mirrorbeast Break
+Mirrorbeast Convex
+Mirrorbeast Dual Array
+Mirrorbeast Flash
+Mirrorbeast Force
+Mirrorbeast Gl'Ow
+Mirrorbeast Glim
+Mirrorbeast Glist
+Mirrorbeast Glitt
+Mirrorbeast Glow
+Mirrorbeast Illusion Dragon
+Mirrorbeast Image
+Mirrorbeast Kaleido
+Mirrorbeast King Colossus
+Mirrorbeast Klas
+Mirrorbeast Kuriboh
+Mirrorbeast Lastur
+Mirrorbeast Lumin
+Mirrorbeast Lyte
+Mirrorbeast Pikture
+Mirrorbeast Radiose
+Mirrorbeast Ray
+Mirrorbeast Reflekt
+Mirrorbeast Refraction Reflection
+Mirrorbeast Shine
+Mirrorbeast Shyne
+Mirrorbeast Spar'Kle
+Mirrorbeast Star
+Mirrorbeast Will

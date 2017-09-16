@@ -1,1 +1,1 @@
-Armed Crystal Battle Gem Dragon
+Blaze Tail Overlimit Dragon

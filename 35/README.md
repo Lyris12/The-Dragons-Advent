@@ -1,1 +1,1 @@
-Seismic Rift Terrain Dragon
+Plague Torrent Tactic Dragon
